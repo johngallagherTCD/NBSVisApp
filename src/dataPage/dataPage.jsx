@@ -18,7 +18,7 @@ class DataPage extends Component {
                     <Col>
                         <div
                             style={{ display: "flex", justifyContent: "center" }}>
-                            <Button variant="primary" size="lg" href="https://docs.google.com/spreadsheets/d/1_d3GDCLFEyPaKe9i6q16CiZa-_cpQteN/edit?usp=sharing&ouid=114534175757960679410&rtpof=true&sd=true" >
+                            <Button variant="primary" size="lg" href="https://github.com/johngallagherTCD/NBSVisApp/raw/main/SampleExcelDatabase.xlsx" >
                                 Download Excel Dataset
                             </Button >
                         </div>
